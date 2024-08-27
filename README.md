@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @stvnshpd
-- 👀 I’m interested in art, neural computation, and cryptoeconomics
-- 🌱 I’m actively collaborating on ML and web3 projects
+- 👀 I’m interested in neural computation
 - 📫 Happy to connect, ping me at ...<my username>[AT]<gmail>[dot]<com>
 
 <!---
