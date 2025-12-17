@@ -1,4 +1,4 @@
-👋 Hi, I’m @stvnshpd
+👋 Hi, I’m @stvnshpd<br>
 I like neural computation and art
 
 
