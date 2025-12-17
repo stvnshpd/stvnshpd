@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @stvnshpd
-- I like neural computation and art
+👋 Hi, I’m @stvnshpd
+I like neural computation and art
 
 
 <!---
